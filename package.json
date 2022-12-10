@@ -1,0 +1,12 @@
+{
+  "name": "workshop-dom-recap",
+  "version": "1.0.0",
+  "description": "Little workshop for dom training",
+  "main": "app.js",
+  "scripts": {
+    "generate-dataset": "node ./utils/generateDataset"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
