@@ -177,12 +177,16 @@ h1 span {
   background-color: #3f4349;
 }
 
-.steele {
+.steel {
   background-color: #9b95a3;
 }
 
 .ice {
   background-color: #6898be;
+}
+
+.dragon {
+  background-color: #841c12;
 }
 
 @media screen and (max-width: 960px) {
