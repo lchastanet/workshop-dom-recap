@@ -185,3 +185,4 @@ const displayPokemons = (pokemons) => {
 </details>
 
 Here you go, congratulations! We made our little pokedex that filters pokemons by type!
+You can check final code on `correction` branch.
